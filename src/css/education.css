@@ -17,3 +17,8 @@
         width: 15% !important;
     }
 }
+
+.preserve-newlines {
+    white-space: pre-line; /* Preserve whitespace and newlines */
+}
+

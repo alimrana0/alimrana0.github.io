@@ -1,33 +1,44 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Cloud Engineer",
+            "subtitle": "Canonical",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Deployed and managed OpenStack, Kubernetes, Juju, MaaS, and LXD clouds on numerous metal/VM configs.",
+                "Troubleshooted and solved specific client cases handling CVEs with Azure, AWS, GCP, and Oracle deployments."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "07/2024 – Present"
         },
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Alignable",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Spearheaded dev for a product allowing businesses to pay for leads to contract services from others businesses in a trusted network of SMBs using GPT-sourced and ranked data (generated $5k+ since 2023 Dec. release).",
+                "Created a new interface in Elixir using ElasticSearch to fetch model data increasing search efficiency by 76%.",
+                "Developed GPT problem and solution management processes to increase product accuracy and targeting"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "06/2023 – 12/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Software Engineer",
+            "subtitle": "Priceline.com",
+            "workType": "Internship",
+            "workDescription": [
+                "Created, migrated, and deployed 100+ API/E2E automation test scripts with Scrum, JavaScript, & SQL (CI/CD).",
+                "Organized and led the triage team, verifying and triaging 200+ bugs E2E of varying priority for project teams."
+            ],
+            "dateText": "07/2022 – 12/2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Rooted Development",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Designed website and set up database framework from scratch through Buildium for upcoming real estate startup"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "08/2022 – 09/2022"
         }
     ]
 }

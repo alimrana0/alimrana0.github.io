@@ -1,19 +1,23 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Sep 2020  - May 2024",
+            "cardTitle": "BS Computer Science",
+            "cardSubtitle":" Northeastern University, Boston",
+            "cardDetailedText": "GPA - 3.9/4.0",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/arlogo.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Sep 2016 - June 2020",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Bethlehem Central Senior HS",
+            "cardDetailedText": "GPA - 4.0/4.0 SAT - 1530/1600 ACT - 35/36",
+            "icon" : {
+                "src": "images/arlogo.png"
+            }
+
         }
     ]
 }
