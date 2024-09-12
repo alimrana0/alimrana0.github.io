@@ -1,0 +1,36 @@
+{
+    "logo" : {
+        "source": "images/arlogo.png",
+        "height" : 125,
+        "width" : 150
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "https://github.com/alimrana0?tab=repositories",
+            "type": "link"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/13-6goJM0rsgy6xp9C3o9phizELpIuYH3/view?usp=drive_link",
+            "type": "link"
+        }
+    ]
+
+}

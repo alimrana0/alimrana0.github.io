@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/alimrana"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/alimrana0"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:alimasoodrana4@gmail.com"
+        }
+    ]
+}
